@@ -14,6 +14,11 @@ This project demonstrates how GlobalSign DSS can be used or implemented. Using G
 
 
 
+<img width="1539" height="727" alt="image" src="https://github.com/user-attachments/assets/23af4b35-0805-434f-824f-9ae6bb03de05" />
+
+
+
+
 ## Objectives
 
 * Enable **secure, standards-compliant PDF signing**
@@ -310,3 +315,4 @@ It forms a strong foundation for building:
  Compliance workflows
  Secure document pipelines
 ```
+
