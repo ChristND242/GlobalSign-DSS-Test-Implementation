@@ -12,6 +12,14 @@ This project demonstrates a **custom, fully self-managed PDF digital signing sol
 
 This project demonstrates how GlobalSign DSS can be used or implemented. Using GlobalSign DSS eliminates reliance on third-party signing platforms (e.g., DocuSign, Adobe Sign) and enables **direct cryptographic signing workflows**.
 
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen?logo=githubactions)](https://github.com/your-repo/actions)
+[![Security](https://img.shields.io/badge/Security-mTLS%20%2B%20API%20Auth-orange)](#security-model)
+[![PDF Signing](https://img.shields.io/badge/PDF-Signing-lightgrey?logo=adobeacrobatreader)](#overview)
+[![GlobalSign DSS](https://img.shields.io/badge/GlobalSign-DSS-blue)](https://www.globalsign.com/en/digital-signing-service)
+[![Made with pyHanko](https://img.shields.io/badge/Made%20with-pyHanko-purple)](https://pypi.org/project/pyHanko/)
+
 
 
 <img width="1539" height="727" alt="image" src="https://github.com/user-attachments/assets/23af4b35-0805-434f-824f-9ae6bb03de05" />
